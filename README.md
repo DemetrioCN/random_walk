@@ -16,5 +16,6 @@ el siguiente diagrama,
 <img src='random1D.jpeg' width="754" height="418" style='center'/>
 
 
+
 **Caminos alestorios en 2D**
 
