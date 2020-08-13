@@ -13,7 +13,7 @@ Estando en 1D y tomando como punto de partida en 0, con direcciones de movimient
 la distancia final se aproxima a la raíz cuadrada de el número de pasos indicados. Esta descripción se puede visualizar mejor en 
 el siguiente diagrama,
 
-<img src='random1D.jpeg' width="854" height="518" style='center'/>
+<img src='random1D.jpeg' width="754" height="418" style='center'/>
 
 
 **Caminos alestorios en 2D**
