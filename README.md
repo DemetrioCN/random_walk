@@ -24,4 +24,11 @@ En el programa implementado, se calcula la distancia final promedio dado cierta 
 
 <img src='result_randomWalk.png' width="654" height="318" style='center'/>
 
+
 **Caminos alestorios en 2D**
+En dos dimensiones se realizó una simulación con 10000 pasos y se obtuvo el siguiente gráfico.
+
+<img src='rand_walk_2D.png' width="754" height="418" style='center'/>
+
+🥴 En muchos lugares podrás encontrar esta misma simulación con el nombre de camino de borrachos, describiendo la ruta que sigue una
+persona con unas copas de más 🥴. 
