@@ -24,3 +24,4 @@ En el programa implementado, se calcula la distancia final promedio dado cierta 
 
 **Caminos alestorios en 2D**
 
+<img src='result_randomWalk.png' width="654" height="318" style='center'/>
