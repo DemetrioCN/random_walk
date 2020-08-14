@@ -22,6 +22,6 @@ dado que se realizaron 6 pasos, la distancia final sería cercano a 2.44.
 
 En el programa implementado, se calcula la distancia final promedio dado cierta cantidad de intentos para un cierto número de pasos. 
 
-**Caminos alestorios en 2D**
-
 <img src='result_randomWalk.png' width="654" height="318" style='center'/>
+
+**Caminos alestorios en 2D**
