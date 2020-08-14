@@ -15,7 +15,12 @@ el siguiente diagrama,
 
 <img src='random1D.jpeg' width="754" height="418" style='center'/>
 
+donde el punto inicial está en cero y termina en -2, entonces la distancia final desde el cero es de 2 unidades. 
 
+La ecuación de arriba indica que la distancia final está en aproximadamente la raíz cuadrada de el número de pasos N, entonces, 
+dado que se realizaron 6 pasos, la distancia final sería cercano a 2.44. 
+
+En el programa implementado, se calcula la distancia final promedio dado cierta cantidad de intentos para un cierto número de pasos. 
 
 **Caminos alestorios en 2D**
 
