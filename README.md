@@ -26,6 +26,7 @@ En el programa implementado, se calcula la distancia final promedio dado cierta 
 
 
 **Caminos alestorios en 2D**
+
 En dos dimensiones se realizó una simulación con 10000 pasos y se obtuvo el siguiente gráfico.
 
 <img src='rand_walk_2D.png' width="754" height="418" style='center'/>
